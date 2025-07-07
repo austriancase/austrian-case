@@ -1,28 +1,17 @@
-# austrian-case
-Documentation of a whistleblower case involving Austrian authorities
-# Austrian Diplomatic Case
+# Disclaimer
 
-📁 *This is a whistleblower documentation archive about a long-running diplomatic and human rights case involving Austrian authorities.*
+**Contains explicit content. Viewer discretion is advised.**
 
-## 🔍 Summary
+This website presents information concerning Dr. Andrea Nasi, an Austrian diplomat and, in this capacity, a public official. Any actions carried out by him in his official role — especially those involving the use of government communication channels — fall within the scope of public interest.
 
-This case documents over 13 years of official neglect, harassment, and procedural abuse faced by a mother with a young child. The goal of this site is to ensure accountability and transparency by making the full documentation public.
+All content published here is based on official documentation, including court records, police filings, and authenticated communications.
 
-## 📑 Document Library
+All remarks are directed toward unknown perpetrator(s) who may have committed unlawful acts or abused official systems. No defamatory intent exists toward any named individual unless liability is legally established.
 
-All documents are hosted externally for transparency and stability.
+The purpose of this site is to:
 
-- [Case Timeline (PDF)](https://drive.google.com/your-link)
-- [Official Letters (ZIP)](https://drive.google.com/your-link)
-- [Legal Complaints](https://drive.google.com/your-link)
-- [Emails and Communications](https://drive.google.com/your-link)
+- Highlight serious institutional failures and security risks,
+- Encourage Austrian authorities to investigate and respond,
+- Request that Dr. Nasi cease all harmful actions against his children and their mother in Hungary,
+- And pursue lawful redress for the damages caused.
 
-## ❗ Why This Matters
-
-Despite repeated pleas for help, official bodies have remained indifferent. This archive shows — through verifiable documents — how a state can slowly destroy the lives of individuals through inaction.
-
-## 📬 Contact
-
-If you're a journalist, human rights defender, or legal expert, feel free to reach out:
-
-📧 austriancase.info@gmail.com
