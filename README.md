@@ -1,17 +1,62 @@
-# Disclaimer
+# Austrian Diplomat Case
 
-**Contains explicit content. Viewer discretion is advised.**
+> A public documentation of institutional failures, harm, and ongoing inaction related to Austrian diplomat Dr. Andrea Nasi.
 
-This website presents information concerning Dr. Andrea Nasi, an Austrian diplomat and, in this capacity, a public official. Any actions carried out by him in his official role — especially those involving the use of government communication channels — fall within the scope of public interest.
+This repository aims to protect vulnerable individuals, promote accountability, and support whistleblower rights through transparency.
 
-All content published here is based on official documentation, including court records, police filings, and authenticated communications.
+---
 
-All remarks are directed toward unknown perpetrator(s) who may have committed unlawful acts or abused official systems. No defamatory intent exists toward any named individual unless liability is legally established.
+## 📌 Disclaimer
 
-The purpose of this site is to:
+Legal and ethical background for publishing this material.  
+All content is based on official records and serves the public interest.  
+See full disclaimer [here](#) – _(link to PDF or internal section later)_.
 
-- Highlight serious institutional failures and security risks,
-- Encourage Austrian authorities to investigate and respond,
-- Request that Dr. Nasi cease all harmful actions against his children and their mother in Hungary,
-- And pursue lawful redress for the damages caused.
+---
 
+## 📖 Story
+
+A short overview of the case and a timeline of events.
+
+- Background
+- Key milestones
+- Current status
+
+---
+
+## 🗂️ Case Documents
+
+Official documents organized by type or institution.  
+Includes court records, police filings, ministry correspondence, and more.
+
+- [Austrian Foreign Ministry](#)
+- [Hungarian Authorities](#)
+- [Police & Judiciary](#)
+- [Other Documents](#)
+
+All files hosted securely via Google Drive – access links to follow.
+
+---
+
+## 📣 Campaign
+
+Ongoing outreach efforts to raise awareness and prompt institutional response.
+
+- Open letters
+- Media contacts
+- Legal aid requests
+- Public support initiatives
+
+---
+
+## 📨 Inquiries & Responses
+
+Tracking how institutions respond (or fail to respond) to formal complaints and submissions.
+
+- Timeline of submissions
+- Replies or silence
+- Observations on process or delay
+
+---
+
+_This documentation is maintained for the sake of transparency, public interest, and protection of those affected._
